@@ -21,7 +21,7 @@ The API uses a pre-trained machine learning model (e.g., Logistic Regression, Ra
 git clone https://github.com/yourusername/customer-churn-api.git
 cd customer-churn-api
 ```
-## (Optional) Create a virtual environment
+### (Optional) Create a virtual environment
 ```bash
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
