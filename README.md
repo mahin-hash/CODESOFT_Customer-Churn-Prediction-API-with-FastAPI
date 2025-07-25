@@ -16,17 +16,17 @@ customer-churn-api/
 The API uses a pre-trained machine learning model (e.g., Logistic Regression, Random Forest, or XGBoost) trained on historical customer data. The model should be saved as a .pkl file or similar.
 
 ## 📥 Installation
-# Clone the repository
+ Clone the repository
 ```bash
 git clone https://github.com/yourusername/customer-churn-api.git
 cd customer-churn-api
 ```
-# (Optional) Create a virtual environment
+ (Optional) Create a virtual environment
 ```bash
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 ```
-# Install dependencies
+ Install dependencies
 ```bash
 pip install -r requirements.txt
 ```
